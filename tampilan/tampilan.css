@@ -1,0 +1,76 @@
+style type="text/css">
+	html,body{
+		padding: 0;
+		margin:0;
+		font-family: sans-serif;
+	}
+	
+	body {
+    background-image: url("../img/Zaitun5.jpg");
+	position: absolute;
+	
+	  padding: 12px;
+}
+
+body {
+	line-height: 1;
+}
+ 
+	.Tampilan{
+		background-color: lime;
+	}
+ 
+	.Tampilan ul {
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+	}
+ 
+	.Tampilan > ul > li {
+		float: left;
+	}
+ 
+	
+	.Tampilan li a {
+		display: inline-block;
+		color: white;
+		text-align: center;
+		padding-top: 10px;
+		padding-right: 10px;
+		padding-bottom: 10px;
+		padding-left: 10px;
+		text-decoration: none;
+	}
+ 
+	.Tampilan li a:hover{
+		background-color: lime;
+	}
+	
+		.foot {
+    width: 100%;
+    margin-top: 390px;
+}
+
+.huruf_index{
+	color: white;
+	font-style: times;
+	font-size: 80px;
+}
+
+footer {
+    text-align: center;
+    width: 120%;
+    height: 50px;
+    background-color: lime;
+}
+
+footer p {
+    line-height: 35px;
+    color: white;
+}
+
+
+ 
+</style>
+ 

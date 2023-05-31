@@ -1,0 +1,85 @@
+<style type="text/css">
+	html,body{
+		padding: 0;
+		margin:0;
+		font-family: sans-serif;
+	}
+	
+	body {
+    background-color: Green;
+	position: fixed;
+	 
+	  padding: 12px;
+}
+
+body {
+	line-height: 1;
+}
+
+.tampilan{
+	color: Lime;
+}
+ 
+	.tampilan{
+		background-color: Lime;
+	}
+	
+	.tanaman1 table, th, td {
+		border: 3px solid;
+		width: 20%;
+	}
+ 
+	.tampilan ul {
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+	}
+ 
+	.tampilan > ul > li {
+		float: left;
+	}
+ 
+	
+	.tampilan li a {
+		display: inline-block;
+		color: white;
+		text-align: center;
+		padding-top: 10px;
+		padding-right: 10px;
+		padding-bottom: 10px;
+		padding-left: 10px;
+		text-decoration: none;
+	}
+ 
+	.tampilan li a:hover{
+		background-color: Lime;
+	}
+ 
+ .article img {
+	margin-right: 12px;
+}
+
+.article {
+    padding: 5px;
+    box-sizing: border-box;
+    margin: auto;
+    width: 300px;
+    border: 5px dashed chocolate;
+}
+
+.article h1 {
+    font-size: 90px;
+    margin-bottom: 12px;
+}
+
+.article h2 {
+	font-size: 32px;
+}
+
+.article p {
+    font: 20px/2 arial;
+}
+ 
+</style>
+ 
